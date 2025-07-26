@@ -6,6 +6,7 @@
 
 ---
 
+![ECG Machine Screenshot](https://github.com/ABAYA12/ECG-Machine/raw/main/image.png)
 ## Overview
 
 The **Electrocardiogram Machine** is a modern, health-focused web application designed to visualize electrocardiogram (ECG) data, which measures the heart’s electrical activity of the heart. Users can upload ECG data files in (CSV or Excel format) or connect to an external AI Neural Model via API to generate interactive ECG line charts and key health metrics, such as heart rate, QRS duration, and arrhythmia count. The application features a professional, trustworthy user interface with a health-oriented color palette, ensuring accessibility and usability. A Node.js backend securely handles file processing and API integration, while the frontend provides an intuitive interface for data visualization.
